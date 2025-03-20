@@ -22,3 +22,11 @@ to connect the vercel server with
 step5: vercel login
 it will give you link and past in url there generate code then past here
 
+step6: git add .
+step7: git commit -m "myfirst project"
+step8: git push origin main
+
+step9: log in on vercel and coonect the git project
+step10: vercel 
+it will deploy the code directly on vercel
+
