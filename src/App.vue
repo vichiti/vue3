@@ -1,3 +1,14 @@
+<template>
+  <v-app>
+    <v-main>
+      <SmartContract />
+    </v-main>
+  </v-app>
+</template>
+
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import SmartContract from './components/SmartContract.vue'
 </script>
+
+<style scoped>
+</style>

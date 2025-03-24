@@ -4,12 +4,16 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.13"
+    "@mdi/font": "^7.4.47",
+    "ethers": "^5.8.0",
+    "sass": "^1.86.0",
+    "vue": "^3.5.13",
+    "vuetify": "^3.7.18"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
